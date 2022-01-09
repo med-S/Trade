@@ -1,2 +1,2 @@
 from class import data
-print(data);
+print(data["text"]+" _ "+data["date_time"])
